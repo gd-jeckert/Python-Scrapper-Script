@@ -1,6 +1,6 @@
 PYTHON Top Games Scrapper
 
-Scrapes STEAM top played games page and displays the top 10.
+Scrapes STEAM top played games page and displays the top 10 in the terminal
 
 PYTHON TOP 10 Screenshot
 
